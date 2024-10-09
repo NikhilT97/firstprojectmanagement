@@ -1,0 +1,8 @@
+The git hub project management tool is a web based tool to manage your projects, working in software industry doing projects or even if you are a student with a computer science background creating any project. it's the best platform in term's of managing the project. The graphical user interface of git hub makes it easy to handle the whole project. in term's of collaboration it works like wonders.
+it has many feature's so that we can manage our task efficiently without getting confused. 
+After creating a project plan we can create an `README.md` file, for the documentation of a project which help's in understanding the scope of project.
+firstly we have to create repositories on the github so that we can push our code/program to it.
+also features like `issues`, `milestone` and `project boards` are much helpful when we are working in `collaborative` manner.
+with the help of issues option we can raise the issues that we have to resolve, such as creating a specific web page or functionality. or if any bug's found or for any new feature we have to add, we can add those queries and we can assign those to teammates. so that no confusion left. it get's really easy when everyone has there own set of task. 
+from the `issues there is option of milestone`, if we are resolving 2-3 issues we can club it to 1 milestone.
+and we can create such `milestone's ` so that we should have clear goal of issue's to be resolved and what point we have to reach after resolving it. that way we can share the progress with the client's also. and we also have visual representation of the project. also project boards help with what's on our plate. what task are in to do list, what task's are in progress and what task's are completed. 
